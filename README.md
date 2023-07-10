@@ -12,13 +12,14 @@
 
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
 
-Senior full-stack developer with 5+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
-Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
-Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
-
-Over the course of 10 years I have worked with a vast amount of technologies.
+AI expert with 2+years of experience building ChatBot and API integration
+Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
+Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
+Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS.
+Specialized in developing 20+ useful and well-organized websites and applications using React.js and Node.js. You should have sufficient experience with blockchain technologies such as DeFi, DAOs, cryptocurrencies, Ethereum, Avalanche, Solidity, Solana, Web3.js, smart contracts (NFTs/ERC20/ERC721), ICOs/IEOs, exchange platforms, and NFT marketplaces. Experience with SQL programming languages in MySQL, OraclePL/SQL and other database environments (e.g. MongoDB, PostgreSQL). Ability to effectively self-manage independent projects and lead and collaborate with team members on challenging web and blockchain projects that are often time-sensitive, use different time zones (Pacific, Eastern), and require strong creative and technical skills.
 
 Main Skills:
+- ChatBot, ChatGPT, ManyChat, Api Integration
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
 - React, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
