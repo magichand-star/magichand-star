@@ -12,7 +12,7 @@
 
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
 
-AI expert with 2+years of experience building ChatBot and API integration
+AI expert with 2+years of experience building ChatBot and API integration.
 Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
 Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
 Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS.
