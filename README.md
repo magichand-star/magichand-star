@@ -30,7 +30,7 @@ Main Skills:
 
 I'm full time developer. Please contact me at james950716@gmail.com
 
-<a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
+<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
 ## ⚡️ A Few Quick Facts
 
