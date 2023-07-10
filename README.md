@@ -129,8 +129,3 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marque.svg" />
 
-
-
-
-[here]: https://kogutstt2.github.io/portfolio/
-[resume]: https://github.com/kogutstt2/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
