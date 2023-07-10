@@ -23,6 +23,7 @@ Main Skills:
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
 - React, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
+- React Native, Flutter
 - GraphQL, Apollo
 - Node.js, Express.js, Hapi.js
 - PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
