@@ -128,5 +128,6 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 <hr>
 
-<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquea.svg" />
+Thank you for your visiting my profile,
+If you need me, Anytime Ping Me!
 
