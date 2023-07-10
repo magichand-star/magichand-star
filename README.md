@@ -30,7 +30,7 @@ Main Skills:
 
 I'm full time developer. Please contact me at james950716@gmail.com
 
-<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5889Cxa_RHu2hggiSC9wPllV4dtRnpjrbzfGYKU5icpK9TZDUBQbTP7pTduRzq01O-k&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
+<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
 ## ⚡️ A Few Quick Facts
 
