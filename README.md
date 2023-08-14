@@ -164,7 +164,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 </td>
 
-  <td valign="top" width="25%">
+  <td valign="top" width="25%"> 
 
 ### AI  
 <div align="center">   
