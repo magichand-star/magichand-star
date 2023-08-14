@@ -16,7 +16,7 @@
 AI expert with 2+years of experience building ChatBot and API integration.<br/>
 Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
 Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
-Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS.
+Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS. 
 Specialized in developing 20+ useful and well-organized websites and applications using React.js and Node.js. You should have sufficient experience with blockchain technologies such as DeFi, DAOs, cryptocurrencies, Ethereum, Avalanche, Solidity, Solana, Web3.js, smart contracts (NFTs/ERC20/ERC721), ICOs/IEOs, exchange platforms, and NFT marketplaces. Experience with SQL programming languages in MySQL, OraclePL/SQL and other database environments (e.g. MongoDB, PostgreSQL). Ability to effectively self-manage independent projects and lead and collaborate with team members on challenging web and blockchain projects that are often time-sensitive, use different time zones (Pacific, Eastern), and require strong creative and technical skills.
 
 Main Skills:
