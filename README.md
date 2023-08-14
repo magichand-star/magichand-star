@@ -87,7 +87,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> 
 </p>
 
 ## 🏆 GitHub Trophies
@@ -170,7 +170,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 <div align="center">   
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BgkOwNaX3_-VvDVxwX0UQOkAUvlSEOx2IQ&usqp=CAU" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE37EgrJvfWpgKRP5jeqGsUz6UfQtBqq4W3JNU5Kvt7DtrESrZihLYdB5zfy689aMwpXY&usqp=CAU" alt="PHP" height="50" />  
-  <img style="margin: 10px" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKcdYw3QMPP8RTrF2hCSdpb93XQRoPOkSqwQ&usqp=CAU" alt="PHP" height="50" />  
+<img style="margin: 10px" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKcdYw3QMPP8RTrF2hCSdpb93XQRoPOkSqwQ&usqp=CAU" alt="PHP" height="50" />  
  
 </div>
 
