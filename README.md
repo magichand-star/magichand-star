@@ -168,7 +168,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 ### AI  
 <div align="center">   
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/php-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BgkOwNaX3_-VvDVxwX0UQOkAUvlSEOx2IQ&usqp=CAU)" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BgkOwNaX3_-VvDVxwX0UQOkAUvlSEOx2IQ&usqp=CAU" alt="PHP" height="50" />  
 </div>
 
 </td>
