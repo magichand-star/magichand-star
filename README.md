@@ -98,7 +98,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 ## My Skill Set  
 <table><tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
 
 
 
@@ -124,7 +124,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 ### Backend  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -141,7 +141,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
@@ -160,7 +160,7 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 ### AI  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
