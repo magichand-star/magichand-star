@@ -10,10 +10,13 @@
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
 </p> 
- 🏆🎖️🏅
+ 🎖️🏅
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
+🏆
 
 ## My Skill Set  
+🏆
+🏆
 <table><tr>
   <td valign="top" width="25%">
 
