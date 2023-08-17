@@ -12,9 +12,9 @@
 </p> 
  🏆🎖️🏅
 
- 👋
+
  
-## Hi ,AI Expert, Senior Web & Mobile Developer!
+## 👋 Hi,AI Expert, Senior Web & Mobile Developer!
 
 
 ## My Skill Set  
