@@ -14,11 +14,7 @@
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
 
 AI expert with 2+years of experience building ChatBot and API integration.<br/>
-Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
-Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
-Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS. 
-Specialized in developing 20+ useful and well-organized websites and applications using React.js and Node.js. You should have sufficient experience with blockchain technologies such as DeFi, DAOs, cryptocurrencies, Ethereum, Avalanche, Solidity, Solana, Web3.js, smart contracts (NFTs/ERC20/ERC721), ICOs/IEOs, exchange platforms, and NFT marketplaces. Experience with SQL programming languages in MySQL, OraclePL/SQL and other database environments (e.g. MongoDB, PostgreSQL). Ability to effectively self-manage independent projects and lead and collaborate with team members on challenging web and blockchain projects that are often time-sensitive, use different time zones (Pacific, Eastern), and require strong creative and technical skills.
-
+As a Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
 Main Skills:
 - ChatBot, ChatGPT, ManyChat, Api Integration
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
@@ -30,25 +26,6 @@ Main Skills:
 - PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
-
-I'm full time developer. Please contact me at james950716@gmail.com
-
-<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
-
-## ⚡️ A Few Quick Facts
-
-- 🧐 Reliable Developer.
-- 🤔 Skill Man.
-- 💬 High QA.
-
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
-
- <br>
-
-
 ## My Skill Set  
 <table><tr>
   <td valign="top" width="25%">
@@ -128,6 +105,25 @@ I'm full time developer. Please contact me at james950716@gmail.com
 </td>
 </tr>
 </table>  
+
+I'm full time developer. Please contact me at james950716@gmail.com
+
+<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
+
+## ⚡️ A Few Quick Facts
+
+- 🧐 Reliable Developer.
+- 🤔 Skill Man.
+- 💬 High QA.
+
+
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+
+ <br>
+
+
 
 
 <hr>
