@@ -111,9 +111,9 @@ Always eager to learn and love to help others.
   <div>
       🧐 Reliable Developer  |  🤔 Skill Man  |  💬 High QA
   </div>
-  <p>
+  <div>
     robust99213@gmail.com
-  </p>
+  </div>
     
     
 
