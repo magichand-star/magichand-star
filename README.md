@@ -120,10 +120,6 @@ Always eager to learn and love to help others.
   <p align="center">
       🧐 Reliable Developer  |  🤔 Skill Man  |  💬 High QA
   </p>
-<br>
- 
-  <br>
-  <br>
   <br>
 
   
