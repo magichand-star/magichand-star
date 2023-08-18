@@ -127,7 +127,8 @@ Always eager to learn and love to help others.
       <td>
         lovedev2130@gmail.com
       </td>
-      <br>
+    </tr>
+    <tr>
       <td>
         Email Address  
       </td>
