@@ -1,7 +1,9 @@
 ## 👋 Hi,EveryOne!
  
 <p align="center">
-  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Web%20and%20Mobile%20Developer;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<img style = "margin:20px" src="https://www.artflakes.com/artwork/products/623927/zoom/magic-hand-hq.jpg?1315406917">
+ <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Web%20and%20Mobile%20Developer;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
