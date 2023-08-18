@@ -18,15 +18,6 @@ Full-Stack Developer with Passion for creating robust and user friendly web appl
 Strive to build scalable and efficient APIs and create visually appealing and responsive user interfaces.
 Always eager to learn and love to help others.
   🏆🎖️
-
-
- 
-
-## ⚡️ A Few Quick Facts
-
-- 🧐 Reliable Developer.
-- 🤔 Skill Man.
-- 💬 High QA.
   
 ## My Skill Set  
 <table><tr>
@@ -122,6 +113,11 @@ Main Skills:
 - AWS, DigitalOcean, Heroku
 
 
+## ⚡️ A Few Quick Facts
+
+- 🧐 Reliable Developer.
+- 🤔 Skill Man.
+- 💬 High QA.
   
 
 I'm full time developer. Please contact me at james950716@gmail.com
