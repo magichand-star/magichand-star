@@ -3,9 +3,9 @@
   <img src="akudama-drive-anime_4.1.gif" />
 </p> 
 <p align="center">  
-🌟 
+🌟 🌟 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJu-kmypbjNCMN9gQwNjEPUOuEEN28Tc77pg&usqp=CAU" style="width: 100px">
- 🌟 </br> 
+🌟 🌟 </br> 
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
 </p> 
