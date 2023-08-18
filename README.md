@@ -136,7 +136,6 @@ Always eager to learn and love to help others.
     </tr>
   </table>
        <br>
-    Skype ID : live:.cid.91e1bcd70909adf6
 </div>
 
 
