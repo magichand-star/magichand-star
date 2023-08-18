@@ -104,7 +104,7 @@ Always eager to learn and love to help others.
 </td>
 </tr>
 </table>
-
+<br>
 
 ## ⚡️ A Few Quick Facts
 
