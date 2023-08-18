@@ -108,26 +108,20 @@ Always eager to learn and love to help others.
 
 <div>
 
-  <table>
-    <tr style="border: solid">
-      <td>
+
         
        ## ⚡️ A Few Quick Facts
         
         - 🧐 Reliable Developer.
         - 🤔 Skill Man.
         - 💬 High QA.
-      </td>
        
 
-    </tr>
-    <tr>
+  
   
        robust99213@gmail.com
     
-    </tr>
-  
-  </table>
+    
 
   <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
