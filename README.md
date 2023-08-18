@@ -51,8 +51,7 @@ Always eager to learn and love to help others.
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
