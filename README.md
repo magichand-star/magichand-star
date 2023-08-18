@@ -132,7 +132,7 @@ superdev2130@gmail.com
 
 
 <br>
-    <p align="center">
+    <p align="left">
       Thank you for your visiting my profile,
       If you need me, Anytime Ping Me!
     </p>
