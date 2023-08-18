@@ -107,7 +107,7 @@ Always eager to learn and love to help others.
 <br>
 
 <table>
-<tr>
+<tr style="border: solid">
   
   ## ⚡️ A Few Quick Facts
 
