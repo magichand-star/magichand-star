@@ -118,7 +118,7 @@ Always eager to learn and love to help others.
 <div align="center">
   
   ### Contact
-
+<hr>
   
 |    Email Address   | lovedev2134@gmail.com |
 | ------------- | ------------- |
