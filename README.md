@@ -20,7 +20,9 @@ Always eager to learn and love to help others.
  
 
 <br>
-  
+
+### 📫 How to reach me: lovedev2134@gmail.com.
+
 ## My Skill Set  
 <table><tr>
   <td valign="top" width="25%">
@@ -122,8 +124,7 @@ Always eager to learn and love to help others.
   </p>
   <br>
 
-### 📫 How to reach me:
-My email address is lovedev2134@gmail.com.
+
 <br>
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!
