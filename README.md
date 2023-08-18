@@ -121,8 +121,8 @@ Always eager to learn and love to help others.
   
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Email Address  | lovedev2134@gmail.com  |
+| Skype ID  | live:.cid.91e1bcd70909adf6  |
        <br>
 </div>
 
