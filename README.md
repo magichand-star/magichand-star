@@ -116,8 +116,8 @@ Always eager to learn and love to help others.
 </div>
 
 <div>
-  Email Address : lovedev2130@gmail.com <br>
-  Skype ID : live:.cid.91e1bcd70909adf6
+    Email Address : lovedev2130@gmail.com <br>
+    Skype ID : live:.cid.91e1bcd70909adf6
 </div>
 
 
