@@ -23,8 +23,9 @@ Always eager to learn and love to help others.
 
 ### 📫 How to reach me:
 <hr>
-lovedev2134@gmail.com.
+lovedev2134@gmail.com <br>
 superdev2130@gmail.com
+
 ## My Skill Set  
 <table><tr>
   <td valign="top" width="25%">
