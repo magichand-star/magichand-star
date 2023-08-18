@@ -118,13 +118,15 @@ Always eager to learn and love to help others.
 <div align="center">
   
   ### Contact
-  
 
+  
+| First Header  | Second Header |
+| ------------- | ------------- |
 | Email Address  | lovedev2134@gmail.com  |
 | Skype ID  | live:.cid.91e1bcd70909adf6  |
        
        
-       <br>
+<br>
 </div>
 
 
