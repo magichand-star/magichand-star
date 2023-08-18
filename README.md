@@ -90,7 +90,7 @@ Always eager to learn and love to help others.
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
-
+ 
 </td>
 
   <td valign="top" width="25%"> 
