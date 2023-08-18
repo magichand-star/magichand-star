@@ -108,9 +108,9 @@ Always eager to learn and love to help others.
      
 ## ⚡️ A Few Quick Facts
 
-  <div align="center">
+  <p align="center">
       🧐 Reliable Developer  |  🤔 Skill Man  |  💬 High QA
-  </div>
+  </p>
   <div>
     robust99213@gmail.com
   </div>
