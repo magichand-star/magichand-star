@@ -10,6 +10,7 @@
   <img src="akudama-drive-anime_4.1.gif" />
 </p> 
 <p align="center">  
+ 🥇
 🌟 🌟 🌟 </br> 
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
