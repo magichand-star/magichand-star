@@ -121,9 +121,10 @@ Always eager to learn and love to help others.
 <hr>
 |    Email Address   | lovedev2134@gmail.com |
 | ------------- | ------------- |
-|    Skype ID    |   live:.cid.91e1bcd70909adf6    |
-       
-       <hr>
+|    Skype ID    |   
+live:.cid.91e1bcd70909adf6    |
+
+<hr>
 
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!
