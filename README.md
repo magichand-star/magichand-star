@@ -120,10 +120,11 @@ Always eager to learn and love to help others.
   <br>
   <br>
   <br>
+  <br>
+  <br>
+
   
 My email address is lovedev2134@gmail.com.
-<hr>
-
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!
 </div>
