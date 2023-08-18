@@ -5,7 +5,7 @@
 <p align="center">  
  
 🌟 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJu-kmypbjNCMN9gQwNjEPUOuEEN28Tc77pg&usqp=CAU" style="width: 20px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJu-kmypbjNCMN9gQwNjEPUOuEEN28Tc77pg&usqp=CAU" style="width: 100px">
  🌟 </br> 
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
