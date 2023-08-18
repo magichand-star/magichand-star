@@ -110,12 +110,15 @@ Always eager to learn and love to help others.
 
   <table>
     <tr style="border: solid">
-  
-        ## ⚡️ A Few Quick Facts
+      <td>
+        
+       ## ⚡️ A Few Quick Facts
         
         - 🧐 Reliable Developer.
         - 🤔 Skill Man.
         - 💬 High QA.
+      </td>
+       
 
     </tr>
     <tr>
