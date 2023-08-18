@@ -123,11 +123,11 @@ Always eager to learn and love to help others.
 | ------------- | ------------- |
 |    Skype ID    |   live:.cid.91e1bcd70909adf6    |
 
+<br>
 <hr>
 
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!
-<br>
 </div>
 
 
