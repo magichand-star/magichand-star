@@ -17,8 +17,7 @@
 
 
  
-## 👋 Hi,AI Expert, Senior Web & Mobile Developer!
-
+## 👋 Hi,everyone,
 ## ⚡️ A Few Quick Facts
 
 - 🧐 Reliable Developer.
