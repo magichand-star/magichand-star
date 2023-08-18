@@ -9,7 +9,7 @@
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
 </p> 
- 🌟
+<br> 
 ## Who is MagicHand-Star🏅?    
 
 Full-Stack Developer with Passion for creating robust and user friendly web application and mobile application.
