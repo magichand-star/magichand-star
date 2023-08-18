@@ -110,16 +110,16 @@ Always eager to learn and love to help others.
 
 
         
-       ## ⚡️ A Few Quick Facts
-        
-        - 🧐 Reliable Developer.
-        - 🤔 Skill Man.
-        - 💬 High QA.
+   ## ⚡️ A Few Quick Facts
+    
+    - 🧐 Reliable Developer.
+    - 🤔 Skill Man.
+    - 💬 High QA.
        
 
   
   
-       robust99213@gmail.com
+   robust99213@gmail.com
     
     
 
