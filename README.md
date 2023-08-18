@@ -6,7 +6,7 @@
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
 </p> 
-<p align="left"> 
+<p align="center"> 
 🌟 🌟 🌟 </br> 
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br> 
@@ -14,7 +14,7 @@
  
 ## Who is MagicHand-Star🏅? 
 
-<p align="center">
+<p align="left">
 Full-Stack Developer with Passion for creating robust and user friendly web application and mobile application.
 Strive to create visually appealing and responsive user interfaces.
 Always eager to learn and love to help others.
