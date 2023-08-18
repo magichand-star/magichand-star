@@ -125,6 +125,24 @@ Always eager to learn and love to help others.
         lovedev2130@gmail.com
       </td>
     </tr>
+    
+    <tr>
+      <td>
+        Skype ID  
+      </td>
+      <td>
+        live:.cid.91e1bcd70909adf6
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        Email Address  
+      </td>
+      <td>
+        lovedev2130@gmail.com
+      </td>
+    </tr>
   </table>
        <br>
     Skype ID : live:.cid.91e1bcd70909adf6
