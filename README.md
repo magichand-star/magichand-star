@@ -130,10 +130,10 @@ Always eager to learn and love to help others.
     </tr>
     <tr>
       <td>
-        Email Address  
+        Skype ID 
       </td>
       <td>
-        lovedev2130@gmail.com
+        live:.cid.91e1bcd70909adf6
       </td>
     </tr>
   </table>
