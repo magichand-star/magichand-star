@@ -108,7 +108,7 @@ Always eager to learn and love to help others.
      
 ## ⚡️ A Few Quick Facts
 
-  <div>
+  <div align="center">
       🧐 Reliable Developer  |  🤔 Skill Man  |  💬 High QA
   </div>
   <div>
