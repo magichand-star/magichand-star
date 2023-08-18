@@ -123,9 +123,9 @@ superdev2130@gmail.com
   <br>
   
 
-### 🧐 Reliable Developer 🧐 <br>
+### ❤️ Reliable Developer ❤️ <br>
 ### 🤔 Skill Man 🤔 <br>
-### 💬High QA <br>
+### 👍 High QA 👍<br>
 
 
   <br>
