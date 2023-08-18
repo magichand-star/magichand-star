@@ -56,11 +56,14 @@ Always eager to learn and love to help others.
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+</div>
+<div>
 
  ### API Integration
-
 <img style="margin: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Z1JesTKQjDq-oQ2Y8yc3MXSAmcx6CjCwSA&usqp=CAU" alt="zapia" height="50" />
 <img style="margin: 20px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/ifttt_icon_146124.png" alt="ifttt" height="50" />
+ 
+</div>
  
  
 </div>
