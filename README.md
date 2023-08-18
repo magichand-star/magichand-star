@@ -119,11 +119,10 @@ Always eager to learn and love to help others.
   
   ### Contact
   
-  | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| :------------: |:---------------:|
+| Email Address      | lovedev2134@gmail.com | 
+| Skype ID      |live:.cid.91e1bcd70909adf6        |
+| zebra stripes | are neat        |
        <br>
 </div>
 
