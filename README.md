@@ -127,6 +127,13 @@ Always eager to learn and love to help others.
       <td>
         lovedev2130@gmail.com
       </td>
+      <br>
+      <td>
+        Email Address  
+      </td>
+      <td>
+        lovedev2130@gmail.com
+      </td>
     </tr>
   </table>
        <br>
