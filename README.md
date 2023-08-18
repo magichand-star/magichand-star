@@ -121,19 +121,21 @@ superdev2130@gmail.com
 
   <br>
   <br>
-  <p align="center">
+  
 
 ### 🧐 Reliable Developer 🧐 <br>
 ### 🤔 Skill Man 🤔 <br>
 ### 💬High QA <br>
 
-  </p>
+
   <br>
 
 
 <br>
-Thank you for your visiting my profile,
-If you need me, Anytime Ping Me!
+    <p align="center">
+      Thank you for your visiting my profile,
+      If you need me, Anytime Ping Me!
+    </p>
 </div>
 
 
