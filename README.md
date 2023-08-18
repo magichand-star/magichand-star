@@ -103,21 +103,6 @@ Always eager to learn and love to help others.
 </table>
 
 
-AI expert with 2+years of experience building ChatBot and API integration.<br/>
-As a Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
-Main Skills:
-- ChatBot, ChatGPT, ManyChat, Api Integration
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Hooks, React Context, 
-- Tailwind CSS, Material-UI, Bootstrap
-- React Native, Flutter
-- GraphQL, Apollo
-- Node.js, Express.js, Hapi.js
-- PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
-- MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- AWS, DigitalOcean, Heroku
-
-
 ## ⚡️ A Few Quick Facts
 
 - 🧐 Reliable Developer.
