@@ -122,10 +122,10 @@ superdev2130@gmail.com
   <br>
   <br>
   <p align="left">
-    
-      ### 🧐 Reliable Developer <br>
-      ### 🤔 Skill Man  <br>
-      ### 💬High QA <br>
+
+### 🧐 Reliable Developer <br>
+### 🤔 Skill Man  <br>
+### 💬High QA <br>
   </p>
   <br>
 
