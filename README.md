@@ -116,19 +116,8 @@ Always eager to learn and love to help others.
 </div>
 
 <div align="center">
-  
-  ### Contact
 
-
-<hr>
-
-
-|    Email Address   | lovedev2134@gmail.com |
-| ------------- | ------------- |
-
-
-
-<br>
+My email address is lovedev2134@gmail.com.
 <hr>
 
 Thank you for your visiting my profile,
