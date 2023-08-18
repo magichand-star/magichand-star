@@ -17,7 +17,7 @@
 Full-Stack Developer with Passion for creating robust and user friendly web application and mobile application.
 Strive to build scalable and efficient APIs and create visually appealing and responsive user interfaces.
 Always eager to learn and love to help others.
-  🏆🎖️
+ 
 
 <br>
   
