@@ -133,8 +133,6 @@ I'm full time developer. Please contact me at james950716@gmail.com
 
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
 
