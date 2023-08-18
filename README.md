@@ -117,7 +117,7 @@ superdev2130@gmail.com
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 </div>
 
-<div align="center">
+<div align="left">
 
   <br>
   <br>
