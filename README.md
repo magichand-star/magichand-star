@@ -22,7 +22,7 @@ Always eager to learn and love to help others.
 <br>
 
 ## 📫 How to reach me:
-lovedev2134@gmail.com <br>
+magichandstar@gmail.com <br>
 superdev2130@gmail.com
 
 ## My Skill Set  
