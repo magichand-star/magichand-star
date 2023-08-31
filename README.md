@@ -23,7 +23,6 @@ Always eager to learn and love to help others.
 
 ## 📫 How to reach me:
 magichandstar@gmail.com <br>
-superdev2130@gmail.com
 
 ## My Skill Set  
 <table><tr>
