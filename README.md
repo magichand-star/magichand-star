@@ -21,9 +21,6 @@ Always eager to learn and love to help others.
 
 <br>
 
-## 📫 How to reach me:
-magichandstar@gmail.com <br>
-
 ## My Skill Set  
 <table><tr>
   <td valign="top" width="25%">
